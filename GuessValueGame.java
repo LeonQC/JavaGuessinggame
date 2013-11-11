@@ -10,12 +10,14 @@ import java.util.*;
  *
  * @author ContEd Student
  */
-public class GuessValueGame {
+public class GuessValueGame 
+{
 
-    /**
+     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args)throws java.io.FileNotFoundException {
+    public static void main(String[] args)throws java.io.FileNotFoundException 
+    {
         // TODO code application logic here
 
         Scanner inFile=new Scanner(new FileReader("value.txt"));
