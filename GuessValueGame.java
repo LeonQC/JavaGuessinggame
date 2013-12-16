@@ -8,7 +8,7 @@ import java.io.FileReader;
 import java.util.*;
 /**
  *
- * @author ContEd Student
+ * @author Qingfeng Yang
  */
 public class GuessValueGame 
 {
